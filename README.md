@@ -1,4 +1,4 @@
-# Challenge-1-accesibility-SEO-
+# Challenge-1 README!
 
 **What is this project?**
 The following is a website called Horiseon which is built off of HTML and CSS. 
