@@ -14,10 +14,9 @@ The project was an opportunity to showcase my current mastery of HTML, CSS, and 
 
 
 **Image/ Screenshot of project:**
-![website screenshot](file:///C:/Users/edefe/Desktop/projects/challenges/challenge.1/Develop/index.html#search-engine-optimization)
-
+![website screenshot]()
 **Link to deployed site:**
-[GitHub](http://github.com)
+[GitHub]()
 
 
 
